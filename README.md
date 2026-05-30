@@ -1,4 +1,4 @@
 # lets-do-something
 this is my first github repository
 <br>
-hope it goes well
+it will go well man of course
